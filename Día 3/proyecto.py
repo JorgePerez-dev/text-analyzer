@@ -32,4 +32,5 @@ print("\n")
 buscar = "python"  in texto
 print(f"La palabra Python te va a decir 'True' si esta en el texto o 'False' si no esta en el texto: {buscar}")
 
+print("Analizador de texto ejecutado correctamente")
 
